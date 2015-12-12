@@ -1,0 +1,16 @@
+{
+  "name": "cptar",
+  "version": "1.0.0",
+  "description": "recursive file and folder copy using in memory tar streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max ogden",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "pump": "^1.0.1",
+    "tar-fs": "^1.8.1"
+  }
+}
