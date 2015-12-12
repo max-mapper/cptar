@@ -1,6 +1,6 @@
 {
   "name": "cptar",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "recursive file and folder copy using in memory tar streams",
   "main": "index.js",
   "scripts": {
