@@ -9,7 +9,6 @@
   "author": "max ogden",
   "license": "ISC",
   "dependencies": {
-    "mkdirp": "^0.5.1",
     "pump": "^1.0.1",
     "tar-fs": "^1.8.1"
   },
